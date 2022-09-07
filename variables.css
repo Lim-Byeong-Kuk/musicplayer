@@ -1,0 +1,5 @@
+:root {
+  --gray: rgba(0, 0, 0, 0.5);
+  --lightgray: rgba(0, 0, 0, 0.3);
+  --darkgray: rgba(0, 0, 0, 0.8);
+}
